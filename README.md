@@ -2,6 +2,9 @@
 
 A React-based Jira-style task management application. Tasks are organized into columns and can be created, edited, deleted, favorited, and moved between columns (via drag-and-drop or a dropdown selector).
 
+<img width="1830" height="916" alt="Task Board Assessment" src="https://github.com/user-attachments/assets/720b8b94-45ff-406d-a52f-60353757a7ee" />
+
+
 ## Tech Stack
 
 - [React 18](https://react.dev/)
