@@ -87,3 +87,6 @@ Run the test suite:
 ```bash
 yarn test
 ```
+
+<img width="389" height="139" alt="image" src="https://github.com/user-attachments/assets/3e469596-cd4d-46a1-8f59-0ec3eef6fbf1" />
+
